@@ -1,0 +1,35 @@
+UID 	   1st week,h 	   2nd week,h 	   3rd week,h 	   4th week,h 	   Pay,grn 		   Sum 		 Datails 
+ 0		40		40		40		40		12000		12000	Developer Designer Booker Manager 
+ 1		40		40		40		40		250		40000	Developer Designer 
+ 2		40		40		40		40		12000		12000	Booker Manager 
+ 3		40		40		40		40		300		48000	Developer Tester 
+ 4		40		40		40		40		20000		20000	Developer Booker Director 
+ 5		40		40		40		40		20000		20000	Developer Tester Director 
+ 6		40		40		40		40		10000		10000	Tester Booker 
+ 7		40		40		40		40		20000		20000	Developer Booker Director 
+ 8		40		40		40		40		12000		12000	Designer Booker Manager 
+ 9		40		40		40		40		12000		12000	Developer Designer Tester Booker Manager 
+ 10		40		40		40		40		12000		12000	Tester Booker Manager 
+ 11		40		40		40		40		20000		20000	Developer Designer Booker Manager Director 
+ 12		40		40		40		40		20000		20000	Developer Tester Manager Director 
+ 13		40		40		40		40		20000		20000	Tester Booker Director 
+ 14		40		40		40		40		20000		20000	Developer Booker Manager Director 
+ 15		40		40		40		40		12000		12000	Developer Tester Booker Manager 
+ 16		40		38		40		40		12000		12000	Tester Manager 
+ 17		40		40		40		40		20000		20000	Developer Designer Booker Director 
+ 18		40		22		40		40		20000		20000	Developer Tester Manager Director 
+ 19		24		2		30		17		20000		20000	Manager Director 
+ 20		40		4		40		36		20000		20000	Developer Tester Manager Director 
+ 21		40		40		40		40		20000		20000	Designer Tester Booker Manager Director 
+ 22		40		38		40		40		12000		12000	Developer Designer Tester Booker Manager 
+ 23		27		0		40		4		20000		20000	Developer Tester Director 
+ 24		31		11		35		7		20000		20000	Booker Manager Director 
+ 25		33		6		40		15		20000		20000	Designer Director 
+ 26		17		1		18		0		10000		10000	Tester Booker 
+ 27		7		0		13		0		10000		10000	Developer Tester Booker 
+ 28		8		0		14		0		20000		20000	Designer Booker Director 
+ 29		0		0		4		0		20000		20000	Designer Booker Director 
+ 30		0		0		0		0		50		0	Designer 
+ 31		2		0		0		0		12000		12000	Designer Tester Manager 
+ 32		0		0		0		0		20000		20000	Booker Director 
+Freelance 	0		0		2		0		150		300
